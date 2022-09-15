@@ -1,0 +1,6 @@
+framework module Pods_PeppyTests {
+  umbrella header "Pods-PeppyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
